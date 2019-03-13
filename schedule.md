@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Us
-permalink: /about/
+title: Schedule
+permalink: /schedule/
 ---
 
 
